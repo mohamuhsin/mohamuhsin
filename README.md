@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi 👋 there, Welcome to My profile. ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+## Hi 👋 there, Welcome to My profile. 
   
   ### I love Frontend and working on APIs.
 
