@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi 👋 there, Welcome to My profile. <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+## Hi 👋 there, Welcome to My profile. ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
   
   ### I love Frontend and working on APIs.
 
