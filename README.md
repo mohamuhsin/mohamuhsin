@@ -1,6 +1,3 @@
-I love FrontEnd And Working on APIs
------------------------------------
-
 
 ### Badges
 
