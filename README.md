@@ -1,9 +1,8 @@
 <div align="center">
   
- Hi 👋 there 
+ Hi 👋 Muhsin here
  
-  
- I love Frontend and working on APIs.
+  Am in love with frontend and backend development.
 
 ![](https://komarev.com/ghpvc/?username=mohamuhsin)
 
