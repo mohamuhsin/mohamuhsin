@@ -1,6 +1,6 @@
 <div align="center">
   
-<strong> Hi 👋 there, I'm Muhsin </strong>
+<strong> Hi 👋 There, I'm Muhsin. </strong>
  
   Am in love with frontend and backend development.
 
