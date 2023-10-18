@@ -2,7 +2,7 @@
   
 <bold> Hi 👋 there </bold>
   
-  ### I love Frontend and working on APIs
+  ### I love Frontend and working on APIs.
 
 <a href="http://www.github.com/mohamuhsin"><img src="https://github-readme-stats.vercel.app/api?username=mohamuhsin&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="mohamuhsin's GitHub stats" /></a>
 
