@@ -1,8 +1,8 @@
 <div align="center">
   
-<strong> Hi 👋 There, I'm Muhsin. </strong>
+<strong> Hi 👋 There, I'm Moha Muhsin. 
  
-  Am in love with frontend and backend development.
+  Am in love with frontend and backend development. </strong>
 
 ![](https://komarev.com/ghpvc/?username=mohamuhsin)
 
