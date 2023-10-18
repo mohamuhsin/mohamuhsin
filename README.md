@@ -2,7 +2,7 @@
   
 <strong> Hi 👋 There, I'm Moha Muhsin. 
  
-  Am in love with frontend and backend development. </strong>
+  Am in love with Frontend and Backend Development. </strong>
 
 ![](https://komarev.com/ghpvc/?username=mohamuhsin)
 
