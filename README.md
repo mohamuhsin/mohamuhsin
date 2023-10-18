@@ -1,8 +1,10 @@
-Hi 👋 I'm Muhamad Muhsin
-===============================
+<b>My GitHub Stats</b>
 
-Front & Backend Developer
----------------------------------------
+<a href="http://www.github.com/"><img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="'s GitHub stats" /></a>
+
+<a href="http://www.github.com/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 I use React for creating interactive and responsive web applications. - Back-end development with Node.js and Express to build efficient and scalable APIs and server-side logic. - Database design, management, and optimization with SQL, particularly PostgreSQL. - Crafting seamless user experiences with a keen eye for design and usability.
 
