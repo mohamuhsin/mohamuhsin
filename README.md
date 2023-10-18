@@ -1,6 +1,6 @@
 <div align="center">
   
-<bold> Hi 👋 there </bold>
+<h1> Hi 👋 there </h1>
   
   ### I love Frontend and working on APIs.
 
