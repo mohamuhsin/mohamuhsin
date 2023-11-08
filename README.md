@@ -2,7 +2,7 @@
   
 <strong> Hi 👋 There, I'm Moha Muhsin. 
  
-Your Go-to Developer Who gets things done. </strong>
+The Go-to Developer Who Gets Things done. </strong>
 
 ![](https://komarev.com/ghpvc/?username=mohamuhsin)
 
