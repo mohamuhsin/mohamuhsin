@@ -2,7 +2,7 @@
   
 <strong> Hi 👋 There, I'm Moha Muhsin. 
  
-Your Go-to Developer </strong>
+Your Go-to Developer. </strong>
 
 ![](https://komarev.com/ghpvc/?username=mohamuhsin)
 
