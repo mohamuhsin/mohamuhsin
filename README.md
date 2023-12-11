@@ -1,6 +1,6 @@
  <div align="center">
   
-<strong> Hi there 👋, I'm Moha Muhsin. 
+<strong> Hi there 👋, I'm Mohamed Muhsin. 
  
 The Go-to Developer Who Gets Things done. </strong>
 
