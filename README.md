@@ -5,7 +5,6 @@
 <!--<u>The Go-to Developer Who Gets Things done.</u> </strong> -->
 
 ![](https://komarev.com/ghpvc/?username=mohamuhsin)
-[![](https://visitcount.itsvg.in/api?id=mohamuhsin&icon=2&color=3)](https://visitcount.itsvg.in)
 
 ![](https://github-readme-stats.vercel.app/api?username=mohamuhsin&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
